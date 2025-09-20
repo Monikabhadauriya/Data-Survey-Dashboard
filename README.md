@@ -52,25 +52,26 @@ Highlights challenges and satisfaction levels to support data-driven career plan
 Total survey responses: 630,
 Countries represented: Multiple,
 Average salary: Displayed by role and region,
-Top programming languages: Ranked by popularity,
+Top programming languages: Ranked by popularity<br>
 -Country Distribution (Map/Bar Chart):
 Shows where respondents are located, giving global representation.<br>
 -Job Titles (Bar/Column Chart):
 Breakdown of roles such as Data Scientist, Data Analyst, and Data Engineer.<br>
 -Salary by Role (Bar Chart):
-Highlights average salaries across different job titles.
+Highlights average salaries across different job titles.<br>
 -Programming Languages (Bar Chart / Word Cloud):
-Displays the most widely used programming languages by professionals.
+Displays the most widely used programming languages by professionals.<br>
 -Breaking Into Data (Donut/Pie Chart):
-Shows perceived difficulty levels of entering the data field.
+Shows perceived difficulty levels of entering the data field.<br>
 -Work–Life Balance & Salary Satisfaction (Bar/Line Charts):
-Measures how professionals rate their happiness with career balance and compensation.
+Measures how professionals rate their happiness with career balance and compensation.<br>
 
 • Business Impact & Insights
-Career Benchmarking: Aspiring professionals can set realistic expectations about salaries, roles, and required skills.
-Educational Alignment: Training providers can design programs based on the most in-demand tools and languages.
-Industry Trends: Organizations can identify global hotspots of talent and understand workforce challenges.
-Talent Strategy: Recruiters and HR teams can use insights to improve hiring strategies and retention by focusing on satisfaction drivers.
-Community Growth: Offers a transparent look at entry barriers, helping create initiatives that lower difficulty for newcomers.
+Career Benchmarking: Aspiring professionals can set realistic expectations about salaries, roles, and required skills.<br>
+Educational Alignment: Training providers can design programs based on the most in-demand tools and languages.<br>
+Industry Trends: Organizations can identify global hotspots of talent and understand workforce challenges.<br>
+Talent Strategy: Recruiters and HR teams can use insights to improve hiring strategies and retention by focusing on satisfaction drivers.<br>
+Community Growth: Offers a transparent look at entry barriers, helping create initiatives that lower difficulty for newcomers.<br>
 
 ### 6.	Screenshots / Demos
+![Dashboard Preview]( https://github.com/Monikabhadauriya/Data-Survey-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
